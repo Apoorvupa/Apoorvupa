@@ -1,15 +1,127 @@
-#  About Me:
- Hi, I'm Apoorv Upadhyay<br><br> AI Engineer | Full Stack Developer | ML Engineer<br><br>I build AI-powered applications, intelligent automation systems, and scalable full-stack platforms using modern AI frameworks and cloud infrastructure.<br><br>With 3+ years of experience, I specialize in LLM systems, AI agents, machine learning pipelines, and production-ready AI platforms.<br><br> About Me<br><br> I’m currently working on<br>Building LLM powered platforms, multi-agent AI systems, RAG pipelines, and enterprise AI automation solutions using LangChain, LangGraph, OpenAI APIs, FastAPI, Django, and React.js.<br><br> I’m looking to collaborate on<br>Projects related to Generative AI, AI Agents, LLM applications, Machine Learning systems, NLP, Computer Vision, and scalable AI platforms.<br><br> I’m looking for help with<br>Designing large-scale AI architectures, advanced RAG systems, distributed AI pipelines, and cloud-native ML infrastructure.<br><br> I’m currently learning<br>Advanced AI Agent frameworks, LLM orchestration, scalable MLOps pipelines, Kubernetes deployments, and enterprise AI systems.<br><br> Ask me about<br>AI Engineering, Machine Learning, LLM Applications, RAG systems, LangChain, FastAPI, Django, React, cloud deployments, Docker, and MLOps.<br><br> Fun fact<br>I enjoy transforming complex AI research ideas into real-world production AI applications.<br><br> AI & Tech Stack<br> AI / Machine Learning<br>LangChain<br>LangGraph<br>Hugging Face Transformers<br>OpenAI APIs<br>LlamaIndex<br>Scikit-learn<br>PyTorch<br>TensorFlow<br>NLP & Computer Vision<br> AI Infrastructure<br>RAG Systems<br>Vector Databases (FAISS)<br>Semantic Search<br>AI Agents (CrewAI, AutoGPT)<br> Backend Development<br>Python<br>Django<br>FastAPI<br>Node.js<br>REST APIs<br> Frontend Development<br>React.js<br>React Native<br>HTML<br>CSS<br>Tailwind<br>Bootstrap<br> DevOps & MLOps<br>Docker<br>MLflow<br>DVC<br>CI/CD Pipelines<br>Git<br> Cloud Platforms<br>AWS<br>Azure AI Services<br>Kubernetes<br> Data & Analytics<br>Pandas<br>NumPy<br>Power BI<br>Tableau<br>Databricks<br> Featured AI Projects<br> AI Knowledge Copilot<br><br>LLM powered RAG based AI assistant for semantic search and intelligent question answering.<br><br> AI Scheduling Agent<br><br>Autonomous AI agent that schedules meetings using LLM reasoning and API orchestration.<br><br> Generative AI Platform<br><br>Multi-feature LLM application with document QA, semantic search, and AI assistants.<br><br> Video Transcription System<br><br>Speech-to-text platform using Whisper + vLLM for automated transcription.<br><br> Hospital Management System<br><br>Full-stack healthcare automation platform using Django + React.<br><br> MLOps Titanic Pipeline<br><br>End-to-end ML pipeline with Docker, MLflow and CI/CD deployment.<br><br> GitHub Stats<br><br> Connect With Me<br><br> LinkedIn<br>https://linkedin.com/in/apoorvupadhyay-10229b<br><br> GitHub<br>https://github.com/Apoorvupa<br><br>Email<br>apoorva.upadhyay99@gmail.com
+# 👋 Hi, I'm Apoorv Upadhyay
 
+🚀 **AI Engineer | Full Stack Developer | ML Engineer**
 
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Apoorvupa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Apoorvupa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorvupa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build **AI-powered applications, intelligent automation systems, and scalable full-stack platforms** using modern AI frameworks and cloud infrastructure.
+
+With **3+ years of experience**, I specialize in **LLM systems, AI agents, machine learning pipelines, and production-ready AI platforms**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Apoorvupa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🔭 **I’m currently working on**  
+Building **LLM powered platforms, multi-agent AI systems, RAG pipelines, and enterprise AI automation solutions** using **LangChain, LangGraph, OpenAI APIs, FastAPI, Django, and React.js**.
+
+👯 **I’m looking to collaborate on**  
+Projects related to **Generative AI, AI Agents, LLM applications, Machine Learning systems, NLP, Computer Vision, and scalable AI platforms**.
+
+🤝 **I’m looking for help with**  
+Designing **large-scale AI architectures, advanced RAG systems, distributed AI pipelines, and cloud-native ML infrastructure**.
+
+🌱 **I’m currently learning**  
+**Advanced AI Agent frameworks, LLM orchestration, scalable MLOps pipelines, Kubernetes deployments, and enterprise AI systems.**
+
+💬 **Ask me about**  
+**AI Engineering, Machine Learning, LLM Applications, RAG systems, LangChain, FastAPI, Django, React, cloud deployments, Docker, and MLOps.**
+
+⚡ **Fun fact**  
+I enjoy transforming **complex AI research ideas into real-world production AI applications.**
+
+---
+
+# 🧠 AI & Tech Stack
+
+### 🤖 AI / Machine Learning
+- LangChain  
+- LangGraph  
+- Hugging Face Transformers  
+- OpenAI APIs  
+- LlamaIndex  
+- Scikit-learn  
+- PyTorch  
+- TensorFlow  
+- NLP & Computer Vision  
+
+### 🧠 AI Infrastructure
+- RAG Systems  
+- Vector Databases (FAISS)  
+- Semantic Search  
+- AI Agents (CrewAI, AutoGPT)  
+
+### 💻 Backend Development
+- Python  
+- Django  
+- FastAPI  
+- Node.js  
+- REST APIs  
+
+### 🎨 Frontend Development
+- React.js  
+- React Native  
+- HTML  
+- CSS  
+- Tailwind  
+- Bootstrap  
+
+### ⚙️ DevOps & MLOps
+- Docker  
+- MLflow  
+- DVC  
+- CI/CD Pipelines  
+- Git  
+
+### ☁️ Cloud Platforms
+- AWS  
+- Azure AI Services  
+- Kubernetes  
+
+### 📊 Data & Analytics
+- Pandas  
+- NumPy  
+- Power BI  
+- Tableau  
+- Databricks  
+
+---
+
+# 🚀 Featured AI Projects
+
+### 🧠 AI Knowledge Copilot
+LLM powered **RAG based AI assistant** for semantic search and intelligent question answering.
+
+### 🤖 AI Scheduling Agent
+Autonomous **AI agent that schedules meetings using LLM reasoning and API orchestration.**
+
+### 🧾 Generative AI Platform
+Multi-feature **LLM application with document QA, semantic search, and AI assistants.**
+
+### 🎙 Video Transcription System
+Speech-to-text platform using **Whisper + vLLM for automated transcription.**
+
+### 🏥 Hospital Management System
+Full-stack healthcare automation platform using **Django + React.**
+
+### 📊 MLOps Titanic Pipeline
+End-to-end **ML pipeline with Docker, MLflow and CI/CD deployment.**
+
+---
+
+# 📈 GitHub Stats
+
+![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apoorvupa&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorvupa&layout=compact&theme=radical)
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn  
+https://linkedin.com/in/apoorvupadhyay-10229b  
+
+💻 GitHub  
+https://github.com/Apoorvupa  
+
+📧 Email  
+apoorva.upadhyay99@gmail.com  
